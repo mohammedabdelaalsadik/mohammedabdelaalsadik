@@ -37,7 +37,7 @@ I lead engineering teams from architecture and planning through implementation, 
 
 `SQL Server` `MongoDB` `PostgreSQL` `Redis` `Oracle` `MySQL` `ClickHouse` `Elasticsearch` `MinIO` `S3` `Qdrant`
 
-**Messaging and Integration** 
+**Messaging and Integration**
 
 `RabbitMQ` `Kafka` `MassTransit` `CAP` `SignalR` `REST APIs` `Ocelot API Gateway`
 
@@ -101,6 +101,10 @@ Faculty of Computers and Informatics, Suez Canal University - 2008
 - Project Management Professional preparation
 - DevOps Foundations - 6-month course at CLS Academy
 - AI Solution Architecture - self-directed study in LLMs, RAG, and MCP
+
+## Articles
+
+- [Centralized Logging in .NET Using Serilog, Elasticsearch, and Kibana](articles/centralized-logging-dotnet-serilog-elasticsearch-kibana.md)
 
 ## Contact
 
