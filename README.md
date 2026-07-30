@@ -27,7 +27,7 @@ I lead engineering teams from architecture and planning through implementation, 
 
 **Frontend**
 
-`Angular` `React.js` `Next.js` `React Native` `TypeScript` `JavaScript` `PrimeNG` `DevExtreme`
+`Angular` `React.js` `Next.js` `React Native` `TypeScript` `JavaScript` `PrimeNG` `DevExtreme` `VueJs` 
 
 **Cloud, DevOps, and Platform**
 
@@ -52,6 +52,11 @@ I lead engineering teams from architecture and planning through implementation, 
 **AI and Modern Systems**
 
 `OpenAI` `Ollama` `Claude` `GPT` `Qwen` `Llama` `RAG` `MCP` `Semantic Kernel` `FastAPI` `Vector Databases`
+
+**Workflow**
+
+`Elsa` `Camunda` 
+
 
 ## Recent Experience
 
